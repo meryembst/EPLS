@@ -1,4 +1,4 @@
-# EPLS = Extreme Partial Least-Squares
+# Extreme Partial Least-Squares (EPLS)
 
 
 ## Abstract
